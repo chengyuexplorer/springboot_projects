@@ -14,3 +14,22 @@
 #  dog:
 #    name: lucy
 #    age: 2
+# 代码块一
+server:
+  port: 8081
+#spring:
+#  profiles:
+#    active: dev #选定开发环境
+#---
+## 代码块二
+#server:
+#  port: 8081
+#spring:
+#  profiles: dev
+#
+#---
+## 代码块三
+#server:
+#  port: 8082
+#spring:
+#  profiles: pro #指定开发环境

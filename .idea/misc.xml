@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/code/01-springboot-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/code/02-springboot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/code/03-springboot-autoconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/code/04-springboot-logging/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,10 +1,11 @@
 package com.yc.config;
 
-import com.yc.config.beans.Person;
+import com.yc.config.beans.PersonPropertyResource;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.context.ApplicationContext;
 import org.springframework.test.context.junit4.SpringRunner;
 
 /**
@@ -15,9 +16,19 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class ApplicationTests {
     @Autowired
-    Person person;
+    PersonPropertyResource personPropertyResource;
+    /**
+     * 将Spring容器注入
+     */
+    @Autowired
+    ApplicationContext ac;
+    @Test
+    public void testSomeService(){
+        System.out.println(ac.containsBean("someService"));
+    }
     @Test
     public void contextLoads() {
-        System.out.println(person);
+        System.out.println(personPropertyResource);
     }
+
 }

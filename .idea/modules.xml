@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/code/01-springboot-helloworld/01-springboot-helloworld.iml" filepath="$PROJECT_DIR$/code/01-springboot-helloworld/01-springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/02-springboot-config/02-springboot-config.iml" filepath="$PROJECT_DIR$/code/02-springboot-config/02-springboot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/03-springboot-autoconfig/03-springboot-autoconfig.iml" filepath="$PROJECT_DIR$/code/03-springboot-autoconfig/03-springboot-autoconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/04-springboot-logging/04-springboot-logging.iml" filepath="$PROJECT_DIR$/code/04-springboot-logging/04-springboot-logging.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_projects.iml" filepath="$PROJECT_DIR$/springboot_projects.iml" />
     </modules>
   </component>
