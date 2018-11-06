@@ -5,7 +5,7 @@
     <file url="file://$PROJECT_DIR$/code/01-springboot-helloworld" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/02-springboot-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/03-springboot-autoconfig" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/code/03-springboot-autoconfig" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/code/04-springboot-logging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/code/05-springboot-web-crud" charset="UTF-8" />
   </component>
 </project>

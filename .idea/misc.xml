@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/code/02-springboot-config/pom.xml" />
         <option value="$PROJECT_DIR$/code/03-springboot-autoconfig/pom.xml" />
         <option value="$PROJECT_DIR$/code/04-springboot-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/05-springboot-web-crud/pom.xml" />
       </list>
     </option>
   </component>

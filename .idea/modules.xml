@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/code/02-springboot-config/02-springboot-config.iml" filepath="$PROJECT_DIR$/code/02-springboot-config/02-springboot-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/03-springboot-autoconfig/03-springboot-autoconfig.iml" filepath="$PROJECT_DIR$/code/03-springboot-autoconfig/03-springboot-autoconfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/04-springboot-logging/04-springboot-logging.iml" filepath="$PROJECT_DIR$/code/04-springboot-logging/04-springboot-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code/05-springboot-web-crud/05-springboot-web-crud.iml" filepath="$PROJECT_DIR$/code/05-springboot-web-crud/05-springboot-web-crud.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot_projects.iml" filepath="$PROJECT_DIR$/springboot_projects.iml" />
     </modules>
   </component>

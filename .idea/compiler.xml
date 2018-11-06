@@ -10,6 +10,7 @@
         <module name="02-springboot-config" />
         <module name="03-springboot-autoconfig" />
         <module name="04-springboot-logging" />
+        <module name="05-springboot-web-crud" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -18,6 +19,7 @@
       <module name="03-springboot-aotuconfig" target="1.8" />
       <module name="03-springboot-autoconfig" target="1.8" />
       <module name="04-springboot-logging" target="1.8" />
+      <module name="05-springboot-web-crud" target="1.8" />
       <module name="code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
